@@ -50,6 +50,8 @@ To Create a complete list of every location where user input enters DVWA and how
   - HTTP History  
 - Web Browser (via Burp)  
 - DVWA Source Code (View Source)
+<img width="1596" height="896" alt="Burp3" src="https://github.com/user-attachments/assets/6d0cdebe-f319-4baa-ac3c-a4f075711dcc" />
+  Burp Suite set-up.
 
 ---
 
